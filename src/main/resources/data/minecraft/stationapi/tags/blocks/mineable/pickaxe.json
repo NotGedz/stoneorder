@@ -1,0 +1,21 @@
+{
+  "replace": false,
+"values":[
+"stoneorder:stone_bricks",
+"stoneorder:stone_brick_stairs",
+"stoneorder:stone_brick_slab",
+  "stoneorder:sandstone_bricks",
+  "stoneorder:sandstone_brick_stairs",
+  "stoneorder:sandstone_brick_slab",
+"stoneorder:mossy_stone_bricks",
+"stoneorder:mossy_stone_brick_stairs",
+"stoneorder:mossy_stone_brick_slab",
+  "stoneorder:mossy_bricks",
+  "stoneorder:mossy_brick_stairs",
+  "stoneorder:mossy_brick_slab",
+  "stoneorder:mossy_cobblestone_stairs",
+  "stoneorder:mossy_cobblestone_slab",
+  "stoneorder:brick_stairs",
+  "stoneorder:brick_slab"
+]
+}

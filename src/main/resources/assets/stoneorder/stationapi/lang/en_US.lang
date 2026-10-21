@@ -1,0 +1,21 @@
+# @ is a shorthand for the current mod id, which is stoneorder. E.g: tile.@.redclay.name
+tile.stoneorder.stone_bricks.name = Stone Bricks
+tile.stoneorder.stone_brick_slab.name = Stone Brick Slab
+tile.stoneorder.stone_brick_stairs.name = Stone Brick Stairs
+tile.stoneorder.sandstone_bricks.name = Sandstone Bricks
+tile.stoneorder.sandstone_brick_slab.name = Sandstone Brick Slab
+tile.stoneorder.sandstone_brick_stairs.name = Sandstone Brick Stairs
+tile.stoneorder.mossy_stone_bricks.name = Mossy Stone Bricks
+tile.stoneorder.mossy_stone_brick_slab.name =Mossy Stone Brick Slab
+tile.stoneorder.mossy_stone_brick_stairs.name =Mossy Stone Brick Stairs
+tile.stoneorder.snow_bricks.name = Snow Bricks
+tile.stoneorder.snow_brick_slab.name =Snow Brick Slab
+tile.stoneorder.snow_brick_stairs.name =Snow Brick Stairs
+tile.stoneorder.mossy_cobblestone_slab.name =Mossy Cobblestone Slab
+tile.stoneorder.mossy_cobblestone_stairs.name =Mossy Cobblestone Stairs
+tile.stoneorder.brick_slab.name =Brick Slab
+tile.stoneorder.brick_stairs.name =Brick Stairs
+tile.stoneorder.mossy_brick_slab.name =Mossy Brick Slab
+tile.stoneorder.mossy_brick_stairs.name =Mossy Brick Stairs
+tile.stoneorder.mossy_bricks.name =  Mossy Bricks
+tab.stoneorder.stone_bricks.name = Stone Order

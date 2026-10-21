@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "stoneorder",
+  "version": "${version}",
+
+  "name": "Soneorder",
+  "description": "A mod about stone!",
+  "authors": [
+    "Krutazhaba"
+  ],
+  "contact": {
+    "homepage": "https://glass-launcher.net/",
+    "sources": "https://github.com/calmilamsy/stationapi-example-mod"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/stoneorder/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "stationapi:event_bus": [
+      "io.github.notgedz.stoneorder.events.init.InitListener",
+      "io.github.notgedz.stoneorder.creative.CreativeListener",
+      "io.github.notgedz.stoneorder.block.StoneOrderBlocks"
+    ],
+    "stationapi:event_bus_client": [],
+    "stationapi:event_bus_server": []
+  },
+  "mixins": [
+    "stoneorder.mixins.json"
+  ],
+
+  "depends": {
+    "minecraft": "1.0.0-beta.7.3",
+    "stationapi": [">=2.0.0-alpha.6.4", "<2.0.0-alpha.7"]
+  }
+}

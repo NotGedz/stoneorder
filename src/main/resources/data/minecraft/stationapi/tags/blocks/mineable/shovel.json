@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "stoneorder:snow_bricks",
+    "stoneorder:snow_brick_stairs",
+    "stoneorder:snow_brick_slab"
+  ]
+}
